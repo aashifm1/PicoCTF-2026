@@ -1,0 +1,2 @@
+picoCTF{fgets_0v3rfl0w42_9311310a}
+

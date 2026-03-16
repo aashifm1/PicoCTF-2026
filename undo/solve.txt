@@ -1,0 +1,9 @@
+1. base64 decode --> base64 -d
+
+2. Reverse a string --> rev
+
+3. Replace _ with - --> tr '-' '_'
+
+4. Replace curly braces with parentheses --> tr '()' '{}'
+
+5. ROT13 --> tr 'A-Za-z' 'N-ZA-Mn-za-m'
