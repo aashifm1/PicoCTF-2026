@@ -1,0 +1,18 @@
+
+Interesting one.
+
+Hint: sql injection
+
+Source file given. In server.js --> POST /secrets/create
+
+Description --> flags is in admin's secret
+
+Steps:
+
+1. Signup as hacker:hacker123
+
+2. Login 
+
+3. Create secret --> sql-payload.txt as content
+
+4. Boom - the flag was found (flag.txt)

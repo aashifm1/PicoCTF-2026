@@ -1,0 +1,14 @@
+
+disk.img.gz --> file given
+
+unzipped it
+
+binwalk disk.img --> files extracted
+
+finding the .git for flag
+
+.git folder -> ~/ctf/picoctf2026/git-0/_disk.img.extracted/ext-root-0/home/ctf-player/Code/secrets/
+
+ git log --oneline --> gives the inner part of flag. 
+
+picoCTF{inner-part-of-flag}

